@@ -6,7 +6,7 @@ import { ContentRowTop } from './ContentRowTop'
 export function ContentWrapper() {
   return (
     <Fragment>
-    <div id="content-wrapper" class="d-flex flex-column">
+    <div id="content-wrapper" className="d-flex flex-column">
       <div id="content">
         <TopBar />
         <ContentRowTop />
